@@ -1,0 +1,26 @@
+# --- Web API ---
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+
+# --- Data science core ---
+numpy
+pandas
+scipy
+
+# --- Machine Learning ---
+scikit-learn
+xgboost
+catboost
+
+# --- Visualization ---
+matplotlib
+seaborn
+
+# --- Utils ---
+tqdm
+joblib
+
+# --- Optional but useful ---
+pydantic
